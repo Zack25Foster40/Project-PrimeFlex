@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.box {
+    background-color: #007afd;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+    padding: 20px;
+    font-weight: bold;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAI4BAwMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAABAgADBv/EAB0QAQEBAQEAAgMAAAAAAAAAAAABEQISIkIDMkH/xAAaAQADAQEBAQAAAAAAAAAAAAAAAQIDBAYF/8QAHhEBAQEBAAMBAQEBAAAAAAAAAAERAhIhMVFBYQP/2gAMAwEAAhEDEQA/APTR05iZF8vR19WMTg0hVSto/Y4FTk9dIXOWsKU7znsQmQwawrSKwYZUqnpmLEGnKrUadAlAkXIAmxpBi4RoxzsReHZN6OVNkcb+MzhetRtR4xFDdDFYSaKvBTLE6ZE2CXwJyOfq8TR1fmm0WL8jrDGLB5V04joOYoV1J1qzQ4i3G55dIiEr7Vz/ANMir0IJFwh5Xq+0nmMbC1Nn9aVg2hMp0p0ehheWLYSGgf6dMQfRHKth6T1Rita9JjDVYy6VoSRhNgqgNAHUVa52HCoxPXC091UL1jnL9VzlGeXQ6XLMzJX5f46QAyB00U4rycGovIhkMhTpTn9EaVmkBb+K5T101aEdtvpsBrU2dqKYanTTi+Vd1z5vzJYuX1jNGFpkuUdCAsGlsEbTItqdYhqhaMJXpPkmw+TotOU8TWsEa1SU4rhOtL4VTnp08szIXjRUjctaK3tUyNVzSTOiNbqpCe+lKqDoqeaoMxC1haU2nGeprHGkUTRtbBhK062tI3kC7WlMhw4NVIMFigRgGsXTPpmGgpyIKxg6VPw2qLV1z6VCoi8cnXmqo5OlLEt1TRxR1U/1XXXrSdTDIaPq4NZiOxjzQ2BO4qNaBaMLTa2NFFaBIxaQHILBIuwYNV459PMbDBSVkwMcFAzAGMikpaqwFqamwKbD3B8EisGi1OWlo6qFt5Wea5dQ8VV5TVHmKZOsFLkFa0Rj39ZdX3ilxLRUsXOsUKxkPYV6ELMX1KhjRcI80SKwKlDXnj9GHC2Euc4AqRrC1N3r4MBkOGMScMjdBTnYYoDU3IGpRS+s6LU01taROanFYNbTVJhAtYlC1ytXUYuFTrMxjFSKg5XIw7+s79ONIWQGZmXIAqDWUqRTQGBrzMVipBFYmt+R5ZTEXXGiEU8gc/jYGtbQPQbDjGnGqVVIT0KiqqbBGPSGbA0KVg2sD0UxsOBciLEdV0sR0qCxLN5ZSXWV0jly6Rz9/WZKdY5AptSYrAKY2GBXLR05RF8lWnCpWtGqxLTfQlVKhUBc9UsdFpNvX1PTUWk2VstPLdCVVhK598pbGY0BPSqmiMrf4LEdcrqcVC+uflU5VhkPV88jBi8bC1eOVTY62I6VKmxDMyi1tVKjjlVRjLL9VrSiX065Of4Pipy5lOk04o89JUSuY6RrXOVWpxexUOoIK1dZOnSOdQii0Wgr0Y6SI5V6DT/nn2qkKPSpUt51Kmg1OqYdfTU4eqm9Bn1m+2sRadFVE4YqJihWvPoip1tLFNUdKqeqqEjGYrS//9k=');
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    color: #4c00ff;
+}
